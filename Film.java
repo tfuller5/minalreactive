@@ -1,6 +1,8 @@
 package netflixapp;
 
 public class Film {
+    // 1 to 1 connection 
+    private FilmFile filmdata;
     private String filmName;
     private int rating;
 
